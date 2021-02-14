@@ -37,6 +37,8 @@ The characters represent one of these sprites:
 
 ![map](https://github.com/madeinouweland/tilebasedgamescroller/blob/master/src/assets/strandmetparasol.png)
 
+![map](https://github.com/madeinouweland/tilebasedgamescroller/blob/master/src/assets/land.png)
+
 ![map](https://github.com/madeinouweland/tilebasedgamescroller/blob/master/src/assets/palm.png)
 
 ## Water
