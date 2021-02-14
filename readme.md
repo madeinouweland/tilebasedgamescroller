@@ -52,3 +52,5 @@ The water is a special case. I rotate the characters .,:; and they represent the
 ![map](https://github.com/madeinouweland/tilebasedgamescroller/blob/master/src/assets/water5.png)
 
 I never created a scrolling game on my C64 but I guess this is how it would be done in the eighties. I hope this helps you to create a nice tile based game!
+
+![map](https://github.com/madeinouweland/tilebasedgamescroller/blob/master/preview.png)
